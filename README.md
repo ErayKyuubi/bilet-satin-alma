@@ -11,7 +11,7 @@ cd bilet-satin-alma
 ```
 
 ```bash
-docker build -t bilet-satin-alma .
+docker-compose up -d
 ```
 
 ```bash
