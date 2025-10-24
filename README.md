@@ -1,10 +1,10 @@
-VARSAYILAN KULLANICILAR:\n
-Site Admini:admin:admin\n
-Firma Yetkilisi:firma:firma\n
-Genel Kullanıcı:eray:eray\n
+VARSAYILAN KULLANICILAR:
+Site Admini:admin:admin
+Firma Yetkilisi:firma:firma
+Genel Kullanıcı:eray:eray
 
 
-Kurulum:\n
-git clone https://github.com/ErayKyuubi/bilet-satin-alma.git\n
-cd bilet-satin-alma\n
-docker build -t bilet-satin-alma .\n
+Kurulum:
+git clone https://github.com/ErayKyuubi/bilet-satin-alma.git
+cd bilet-satin-alma
+docker build -t bilet-satin-alma .
