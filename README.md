@@ -37,5 +37,5 @@ docker run -d -p 8080:80 --name bilet-uygulamasi bilet-satin-alma
     * **Şifre:** `firma`
 
 * **Rol:** Genel Kullanıcı
-    * **Kullanıcı Adı:** `eray`
-    * **Şifre:** `eray`
+    * **Kullanıcı Adı:** `user`
+    * **Şifre:** `user`
