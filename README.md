@@ -3,7 +3,7 @@
 ## Kurulum
 
 ```bash
-git clone [https://github.com/ErayKyuubi/bilet-satin-alma.git](https://github.com/ErayKyuubi/bilet-satin-alma.git)
+git clone https://github.com/ErayKyuubi/bilet-satin-alma.git
 ```
 
 ```bash
