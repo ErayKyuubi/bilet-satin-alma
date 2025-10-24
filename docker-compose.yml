@@ -17,7 +17,6 @@ services:
     networks:
       - bilet-network
 
-  # İsteğe bağlı: Veritabanı yönetimi için phpMyAdmin benzeri SQLite browser
   sqlite-browser:
     image: coleifer/sqlite-web
     container_name: bilet-sqlite-browser
