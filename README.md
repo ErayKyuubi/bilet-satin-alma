@@ -14,10 +14,6 @@ cd bilet-satin-alma
 docker-compose up -d
 ```
 
-```bash
-docker run -d -p 8080:80 --name bilet-uygulamasi bilet-satin-alma
-```
-
 `http://localhost:8080/db_setup.php`
 
 `http://localhost:8080/`
